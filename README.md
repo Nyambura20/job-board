@@ -1,6 +1,7 @@
 # 💼 Job Board Platform
 
 A modern, responsive Job Board web application where users can register as **Job Seekers** or **Job Owners** to view or post job listings. Built with **React**, **Vite**, and deployed on **Vercel**.
+https://job-board-brown.vercel.app/
 
 ---
 
